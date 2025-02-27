@@ -1,6 +1,3 @@
-## CST-16163 Intro to Computer Programming
-## By: Aaron Knowles
-
 print("Welcome to your Bank\n")
 
 # Initialization
